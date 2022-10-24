@@ -696,6 +696,7 @@ margin-bottom: 50px;
     color: white;
     outline: none;
    margin-bottom: 10px;
+   cursor: pointer;
 }
 .slider__img {
     width: 100%;
